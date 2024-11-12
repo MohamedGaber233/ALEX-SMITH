@@ -1,0 +1,89 @@
+@media  screen and (max-width:600px) {
+    .detilse{
+        width: 100%;
+    }
+   
+}
+@media screen and (min-width:601px) and (max-width:768px){
+    .detilse{
+        width: 50%;
+    }
+    .inner {
+        width: 50%;
+    }
+}
+@media screen and (min-width:769px) and (max-width:992px){
+    .detilse {
+        width: 33.3333%;
+    }
+    
+}
+@media screen and (min-width:993px) and (max-width:1200px) {
+    .detilse {
+        width: 25%;
+    }
+    
+}
+/* start section 2    */
+@media  screen and (max-width:600px) {
+    .hallo,.hallo-text{
+        width: 100%;
+    }
+
+}
+@media screen and (min-width:601px) and (max-width:768px){
+    .hallo,.hallo-text{
+        width: 50%;
+    }
+   
+}
+
+
+/*START OUR PORTFOLIO SECTION*/
+@media  screen and (max-width:600px) {
+    .font,.font2{
+        width: 100%;
+    }
+
+}
+@media screen and (min-width:601px) and (max-width:768px){
+    .font,.font2{
+        width: 50%;
+    }
+   
+}
+@media screen and (min-width:769px) and (max-width:992px){
+    .font,.font2{
+        width: 33.3333%;
+    }
+    
+}
+@media screen and (min-width:993px) and (max-width:1200px) {
+    .font,.font2{
+        width: 25%;
+    }
+   
+}
+
+
+/*START section5*/
+@media screen and (max-width:600px){
+    .text-seven{
+        width: 100%;
+    }
+}
+@media screen and (min-width:601px) and (max-width:768){
+    .text-seven{
+        width: 50%;
+    }
+}
+@media screen and (min-width:769px) and (max-width:992){
+    .text-seven{
+        width: 33.33333%;
+    }
+}
+@media screen and (min-width:993px) and (max-width:1200){
+    .text-seven{
+        width: 25%;
+    }
+}
